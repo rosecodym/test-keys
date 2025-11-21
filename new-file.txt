@@ -1,4 +1,2 @@
 hello i am a file
 
-
-a new file
