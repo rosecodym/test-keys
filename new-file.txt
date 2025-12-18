@@ -3,3 +3,7 @@ aws
 test 1
 AKIAZAVB57H52AIY6G4M
 4r+Q//837+sPwJ+9bLXH1sXg2x1+xEVFkeHEvCkL
+
+openai.api-key: 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
+
+doop doop
