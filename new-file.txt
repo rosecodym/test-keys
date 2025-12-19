@@ -4,6 +4,6 @@ test 1
 AKIAZAVB57H52AIY6G4M
 4r+Q//837+sPwJ+9bLXH1sXg2x1+xEVFkeHEvCkL
 
-openai.api-key: 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
+OPENAI_API_KEY = "sk-proj-mpjtr05CFsJqs4TAeKlCT3BlbkFJsh1KtN0SUjTPeJiagE8K
 
 doop doop
